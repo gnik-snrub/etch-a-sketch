@@ -37,3 +37,17 @@ html {
 .title {
     padding-right: 40px;
 }
+
+.reset {
+    margin-right: 25px;
+}
+
+.grid-change {
+    margin: 0 10px;
+}
+
+.grid-size {
+    background-color: white;
+    border: 1px solid black;
+    padding: 0 10px;
+}
